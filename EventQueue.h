@@ -1,6 +1,7 @@
 #pragma once
 #include <queue>
 #include <time.h>
+#include <stdlib.h>
 
 #include "Device.h"
 #include "Readyset.h"

@@ -2,6 +2,7 @@
 #include <queue>
 #include <string>
 #include <time.h>
+#include <stdlib.h>
 
 struct Burst
 {
